@@ -14,7 +14,11 @@ My responsibilities included developing new functionality, maintaining existing 
  **Projects**
  * [Online-store-model](https://github.com/Pauluson/Online-store-model)
  * [Codebattle-game-project](https://github.com/Pauluson/qa-engineer-project-85)
-   
+
+ **Test tasks**
+  * [Test-task-QA-Engineer-tutu.ru](https://github.com/Pauluson/Test-task-QA-Engineer-tutu.ru)
+  * [Test-task-QA-Engineer-Krit.pro](https://github.com/Pauluson/Test-task-QA-Engineer-Krit.pro)
+
  **[Pull Requests and Issues](https://github.com/search?q=author%3Apauluson&type=issues)**
 
 ## Skills
