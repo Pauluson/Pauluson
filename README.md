@@ -18,6 +18,7 @@ My responsibilities included developing new functionality, maintaining existing 
  **Test tasks**
   * [Test-task-QA-Engineer-tutu.ru](https://github.com/Pauluson/Test-task-QA-Engineer-tutu.ru)
   * [Test-task-QA-Engineer-Krit.pro](https://github.com/Pauluson/Test-task-QA-Engineer-Krit.pro)
+  * [Test-task-QA-Engineer-Purrweb](https://github.com/Pauluson/Test-task-QA-Engineer-Purrweb)
 
  **[Pull Requests and Issues](https://github.com/search?q=author%3Apauluson&type=issues)**
 
